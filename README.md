@@ -11,18 +11,13 @@ When online either multiplayer or singleplayer, type `/hyjanitor` (or `/hyj` for
 > More information needed.
 
 
-
-### Installing the Mod
-To install the mod, make sure you are using [Forge version 2318](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html). [Download the the latest mod release]() and drag it over to your mods folder. If you don't know how to install Forge, [click here for a tutorial](). Make sure to check the Mod Requirements section below to see if you are using any incompatible mods.
-
-
-**Mod requirements:**
+### Mod requirements:
 
 Client version: 1.8.9
 
 Forge version: [v2318](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
 
-Mod Incompatibilities:
+#### Mod Incompatibilities:
 - *None yet, please report it if you encounter any!*
 
 
