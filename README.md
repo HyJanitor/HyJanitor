@@ -31,7 +31,7 @@ Forge version: [v2318](https://files.minecraftforge.net/net/minecraftforge/forge
 > > mj80
 >
 > Contributors:
-> > (name)
+> > [hqkx1](https://github.com/hqkx1)
 >
 > Other:
 > > (name): (reason)
